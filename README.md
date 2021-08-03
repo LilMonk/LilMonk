@@ -7,12 +7,11 @@
 
 <!-- Introduction -->
 
-I’m Rahul Sahoo a.k.a <i>LilMonk</i>.
+<!-- I’m Rahul Sahoo a.k.a <i>LilMonk</i>. -->
 </br>
-I'm currently pursuing my undergraduation in C.S. I am currently working as an intern at Persistent Systems. I am new to open source but have knowledge in frontend and machine learning.
+  I am new to open source but have knowledge in frontend and machine learning.
 </br>
-_Please feel free to connect with me. I would love to learn and collaborate on any interesting project._
-
+Please feel free to connect with me. I would love to learn and collaborate on any interesting project.
 </p>
 
 <!-- Email -->
